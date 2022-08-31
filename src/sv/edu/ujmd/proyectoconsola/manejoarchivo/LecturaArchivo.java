@@ -11,7 +11,11 @@ import java.io.*;
  *
  * @author Alexander-Siguenza
  */
-public class LecturaArcvhivo {
+public class LecturaArchivo {
+    
+    public  String[] lecturaArchivo(){
+        return null;
+    }
 
     public static void main(String[] arg) {
         File archivo = null;
